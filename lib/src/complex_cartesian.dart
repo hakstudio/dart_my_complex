@@ -8,12 +8,12 @@ class ComplexCartesian extends Complex {
 
   num get imaginary => _imaginary;
 
-  num _modulus;
-  num __mod2;
+  num? _modulus;
+  num? __mod2;
 
   num get _mod2 => __mod2 ??= math.pow(real, 2) + math.pow(imaginary, 2);
 
-  num _argument;
+  num? _argument;
 
   String toString() => "$real + ${imaginary}i";
 

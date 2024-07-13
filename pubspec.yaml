@@ -5,7 +5,7 @@ author: Edouard Tavinor <email@example.com>
 homepage: https://www.example.com
 
 environment:
-  sdk: '>=1.20.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
 
 #dependencies:
 #  lib_name: any
