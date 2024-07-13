@@ -21,3 +21,7 @@
 ## 0.1.0
 
 - compatibility with dart2
+
+## 0.1.1
+
+- executable for dart version 3.4.1

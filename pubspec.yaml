@@ -1,6 +1,6 @@
 name: my_complex
 description: naive implementation of cartesian and polar complex numbers.
-version: 0.1.0
+version: 0.1.1
 author: Edouard Tavinor <email@example.com>
 homepage: https://www.example.com
 
