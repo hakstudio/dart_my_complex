@@ -296,13 +296,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "my_complex",
+      "name": "my_complex_nullsafety",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-07-13T19:42:28.758775Z",
+  "generated": "2024-07-13T19:49:30.780873Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///Users/hak/SDKs/flutter",

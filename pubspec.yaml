@@ -3,6 +3,7 @@ description: naive implementation of cartesian and polar complex numbers.
 version: 0.1.1
 author: HAKStudio <hakstudioo@gmail.com>
 homepage: https://hakstudio.com.tr
+repository: https://github.com/hakstudio/dart_my_complex
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
